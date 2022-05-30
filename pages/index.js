@@ -20,12 +20,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://www.instagram.com/batistaydoleo" className={styles.card}>
             <h2>Bienes Raices</h2>
-            <p>Fotos y videos de nuestros apartamentos disponibles</p>
+            <p>Fotos y videos de nuestros apartamentos disponibles en Instagram.</p>
           </a>
 
           <a href="https://wa.me/18297038306" className={styles.card}>
             <h2>Departamento Legal</h2>
-            <p>Contacto con nuestro despacho via Whatsapp.</p>
+            <p>Contacto con la Recepcion de nuestro despacho via Whatsapp.</p>
           </a>
 
           <a
@@ -37,12 +37,12 @@ export default function Home() {
           </a>
 
           <a
-            href="https://wa.me/18297038306"
+            href="mailto:despacho@batistaydoleo.com"
             className={styles.card}
           >
-            <h2>Adm Condominio</h2>
+            <h2>Contacto</h2>
             <p>
-              La administracion de nuestros condominios.
+              Via Correo Electronico a despacho@batistaydole.com
             </p>
           </a>
         </div>
