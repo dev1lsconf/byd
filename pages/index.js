@@ -33,7 +33,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Dr. Eleuterio Batista</h2>
-            <p>Contacto con el Dr. Batista (Abogado) via Whatsapp.</p>
+            <p>Contacto con el Dr. Batista (Abogado) 809.383.4191 via Whatsapp.</p>
           </a>
 
           <a
@@ -42,7 +42,7 @@ export default function Home() {
           >
             <h2>Contacto</h2>
             <p>
-              Via Correo Electronico a despacho@batistaydole.com
+              Via Nuestra direccion de Correo Electronico despacho@batistaydoleo.com
             </p>
           </a>
         </div>
