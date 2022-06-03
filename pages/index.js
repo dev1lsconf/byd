@@ -42,7 +42,7 @@ export default function Home() {
           >
             <h2>Contacto</h2>
             <p>
-              Via Nuestra direccion de Correo Electronico despacho@batistaydoleo.com
+              Puede contactarnos via Nuestra direccion de Correo Electronico.
             </p>
           </a>
         </div>
